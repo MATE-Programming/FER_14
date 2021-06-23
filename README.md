@@ -6,4 +6,4 @@
            при 568px 1 колонку.
 
 ### Макет для вёрстки
-   ![alt MATE Programming](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_14/CSS-Cards-Expanding-Card.jpg) 
+   ![alt MATE Programming](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_14/CSS-Cards-Expanding-Card.jpg?raw=true) 
